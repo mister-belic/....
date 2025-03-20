@@ -1,0 +1,5 @@
+sudo apt install ./<file>.deb
+
+# If you're on an older Linux distribution, you will need to run this instead:
+# sudo dpkg -i <file>.deb
+# sudo apt-get install -f # Install dependencies
